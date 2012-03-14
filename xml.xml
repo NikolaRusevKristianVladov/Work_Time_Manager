@@ -1,0 +1,17 @@
+<?xml version=""1.0?>
+<work_c>
+	<card>
+		<start>
+			<hour>13:00</hour>
+			<data>15.15.2012</data>
+		</start>
+		<end>
+			<hour>15:00</hour>
+			<data>15.15.2012</data>
+		</end>
+		<dotw>
+			<work_name>Koki<work_name>
+			<small_description>mi koki programira</small_description>
+		</dotw>
+	</card>
+<work_c>
